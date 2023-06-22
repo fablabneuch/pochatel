@@ -1,4 +1,4 @@
-# pochatel
+# Pochâtel
 Atelier de création de fourres de smartphone développé par le <a href="https://www.fablab-neuch.ch">FabLab de Neuchâtel</a>
 
 ![illustration](/images/pochatel-1.jpg)
